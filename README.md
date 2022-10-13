@@ -1,1 +1,1 @@
-# CodingBad
+# CodingBat
